@@ -1,4 +1,4 @@
-# Anova two way in different conditions
+# Anova two way in different conditions:
   
 The objective of this code is to simplify a new way to work in a dataset with different conditions or variables to be explored.
 
